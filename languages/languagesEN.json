@@ -1,0 +1,85 @@
+{
+    "ENGLISH": "language",
+
+
+
+    "EMBED SECTION": "",
+
+
+
+    "MAIN EMBED": "",
+    "dmEmbedTitle": "Naty Questions",
+    "dmEmbedDescription": "Choose your question below and bot give you a answer!",
+
+
+
+    "DOWNLOAD INFO EMBED": "",
+    "downloadEmbedTitle": "Download",
+    "downloadEmbedDescription": "Use this link to get download guide\n https://korepi.com/start/download",
+
+
+
+    "FANS ROLE INFO EMBED": "",
+    "fansRoleEmbedTitle": "Fans Role",
+    "fansRoleEmbedDescription": "Use this link to get guide how to get fans role",
+
+
+
+    "SPONSOR INFO EMBED": "",
+    "sponsorEmbedTitle": "Sponsorship",
+    "sponsorEmbedDescription": "Use this link to get guide how to get sponsor",
+
+
+
+    "KEY INFO EMBED": "",
+    "keyEmbedTitle": "Key",
+    "keyEmbedDescription": "Use this link to get guide how to get key",
+
+
+
+    "RESET HWID INFO EMBED": "",
+    "resetHwidEmbedTitle": "Reset HWID",
+    "resetHwidEmbedDescription": "Use this link to get guide how to reset HWID",
+
+
+
+    "FEATURES INFO EMBED": "",
+    "featuresEmbedTitle": "Features",
+    "featuresEmbedDescription": "Use this link to get guide what features korepi have",
+
+
+
+    "TROUBLESHOOT INFO EMBED": "",
+    "troubleshootEmbedTitle": "Troubleshot",
+    "troubleshootEmbedDescription": "If you have problem with korepi use this link",
+
+
+
+    "MULTIINSTANCE INFO EMBED": "",
+    "multiinstanceEmbedTitle": "Multi Instance",
+    "multiinstanceEmbedDescription": "Use this link to get guide how to open multiple games",
+
+
+
+    "SKINS INFO EMBED": "",
+    "skinsEmbedTitle": "Skins",
+    "skinsEmbedDescription": "Use this link to get guide how to use 3dm with korpei",
+
+
+
+    "TP INFO EMBED": "",
+    "tpEmbedTitle": "TP",
+    "tpEmbedDescription": "Use this link to get guide how to use TP",
+
+
+
+    "OTHER INFO EMBED": "",
+    "otherEmbedTitle": "Other",
+    "otherEmbedDescription": "Use this link to get guide",
+
+
+
+    "MENUS SECTION": "add tmrw"
+
+
+}
