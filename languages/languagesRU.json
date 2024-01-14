@@ -14,61 +14,61 @@
 
 
     "DOWNLOAD INFO EMBED": "",
-    "downloadEmbedTitle": "Скачка",
-    "downloadEmbedDescription": "Используйте ссылку ниже для скачивания",
+    "downloadEmbedTitle": "Скачивание",
+    "downloadEmbedDescription": "Гайд как скачать\n https://korepi.com/start/download",
 
 
     "FANS ROLE INFO EMBED": "",
     "fansRoleEmbedTitle": "Fans Role",
-    "fansRoleEmbedDescription": "Гайд как получить fans роль",
+    "fansRoleEmbedDescription": "Гайд как получить fans роль\n https://korepi.com/start/sign-in",
 
 
 
     "SPONSOR INFO EMBED": "",
     "sponsorEmbedTitle": "Sponsorship",
-    "sponsorEmbedDescription": "Гайд как стать спонсором",
+    "sponsorEmbedDescription": "Гайд как стать спонсором\n https://korepi.com/start/sponsor",
 
 
 
     "KEY INFO EMBED": "",
     "keyEmbedTitle": "Ключ",
-    "keyEmbedDescription": "Гайд как получить ключ",
+    "keyEmbedDescription": "Гайд как получить ключ\n https://korepi.com/guide/getkey",
 
 
 
     "RESET HWID INFO EMBED": "",
     "resetHwidEmbedTitle": "Сброс HWID",
-    "resetHwidEmbedDescription": "Гайд как сбросить HWID привязку",
+    "resetHwidEmbedDescription": "Гайд как сбросить HWID привязку\n https://korepi.com/guide/resethwid",
 
 
 
     "FEATURES INFO EMBED": "",
     "featuresEmbedTitle": "Функции",
-    "featuresEmbedDescription": "Список всех функций",
+    "featuresEmbedDescription": "Список всех функций\n https://korepi.com/features/",
 
 
 
     "TROUBLESHOOT INFO EMBED": "",
     "troubleshootEmbedTitle": "Ошибки",
-    "troubleshootEmbedDescription": "В случае ошибках с Korepi",
+    "troubleshootEmbedDescription": "В случае ошибках с Korepi\n https://korepi.com/troubleshoot/",
 
 
 
     "MULTIINSTANCE INFO EMBED": "",
     "multiinstanceEmbedTitle": "Несколько экземпляров игры",
-    "multiinstanceEmbedDescription": "Гайд как открыть несколько экземпляров игры",
+    "multiinstanceEmbedDescription": "Гайд как открыть несколько экземпляров игры\n https://korepi.com/guide/multi-instance",
 
 
 
     "SKINS INFO EMBED": "",
     "skinsEmbedTitle": "Скины",
-    "skinsEmbedDescription": "Гайд как поставить свои скины",
+    "skinsEmbedDescription": "Гайд как поставить свои скины\n https://korepi.com/guide/3DM-skin",
 
 
 
     "TP INFO EMBED": "",
     "tpEmbedTitle": "TP",
-    "tpEmbedDescription": "Как использовать Телепорты",
+    "tpEmbedDescription": "Как использовать Телепорты\n https://korepi.com/features/Teleport/",
 
 
 
@@ -84,52 +84,52 @@
 
     "DOWNLOAD INFO MENU": "",
     "downloadMenuLabel": "Скачать",
-    "downloadMenuDescription": "Информация как скачать.",
+    "downloadMenuDescription": "Информация как скачать.\n https://korepi.com/start/download",
 
 
     "FANS ROLE INFO MENU": "",
     "fansRoleMenuLabel": "Fans Role",
-    "fansRoleMenuDescription": "Как получить роль  role?",
+    "fansRoleMenuDescription": "Как получить роль  role?\n https://korepi.com/start/sign-in",
 
 
     "SPONSOR INFO MENU": "",
     "sponsorMenuLabel": "Sponsor",
-    "sponsorMenuDescription": "Как я могу стать спонсором?",
+    "sponsorMenuDescription": "Как я могу стать спонсором?\n https://korepi.com/start/sponsor",
 
 
     "KEY INFO MENU": "",
     "keyMenuLabel": "Ключ",
-    "keyMenuDescription": "Как получить ключ?",
+    "keyMenuDescription": "Как получить ключ?\n https://korepi.com/guide/getkey",
 
 
     "RESET HWID INFO MENU": "",
     "resetHwidMenuLabel": "Сброс HWID",
-    "resetHwidMenuDescription": "Как сбросить HWID?",
+    "resetHwidMenuDescription": "Как сбросить HWID?\n https://korepi.com/guide/resethwid",
 
 
     "FEATURES INFO MENU": "",
     "featuresMenuLabel": "Функции",
-    "featuresMenuDescription": "Какие функции есть в korepi?",
+    "featuresMenuDescription": "Какие функции есть в korepi?\n https://korepi.com/features/",
 
 
     "TROUBLESHOOT INFO MENU": "",
     "troubleshootMenuLabel": "Ошибки",
-    "troubleshootMenuDescription": "Как решить проблему?",
+    "troubleshootMenuDescription": "Как решить проблему?\n https://korepi.com/troubleshoot/",
 
 
     "MULTIINSTANCE INFO MENU": "",
     "multiinstanceMenuLabel": "Несколько экземпляров",
-    "multiinstanceMenuDescription": "Как я могу открыть несколько экземпляров игры?",
+    "multiinstanceMenuDescription": "Как я могу открыть несколько экземпляров игры?\n https://korepi.com/guide/multi-instance",
 
 
     "SKINS INFO MENU": "",
     "skinsMenuLabel": "Скины",
-    "skinsMenuDescription": "Как поставить скины в korepi(3dmigo)?",
+    "skinsMenuDescription": "Как поставить скины в korepi(3dmigo)?\n https://korepi.com/guide/3DM-skin",
 
 
     "TP INFO MENU": "",
     "tpMenuLabel": "TP",
-    "tpMenuDescription": "Как и где скачать TP паки?",
+    "tpMenuDescription": "Как и где скачать TP паки?\n https://korepi.com/features/Teleport/",
 
 
     "OTHER INFO MENU": "",
