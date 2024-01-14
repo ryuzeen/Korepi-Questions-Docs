@@ -79,7 +79,61 @@
 
 
 
-    "MENUS SECTION": "add tmrw"
+    "MENUS SECTION": "",
 
 
+
+    "DOWNLOAD INFO MENU": "",
+    "downloadMenuLabel": "Download",
+    "downloadMenuDescription": "Guide how to download here.",
+
+
+    "FANS ROLE INFO MENU": "",
+    "fansRoleMenuLabel": "Fans Role",
+    "fansRoleMenuDescription": "How to get fans role?",
+
+
+    "SPONSOR INFO MENU": "",
+    "sponsorMenuLabel": "Sponsor",
+    "sponsorMenuDescription": "How can i become a sponsor?",
+
+
+    "KEY INFO MENU": "",
+    "keyMenuLabel": "Key",
+    "keyMenuDescription": "How to get key?",
+
+
+    "RESET HWID INFO MENU": "",
+    "resetHwidMenuLabel": "Reset HWID",
+    "resetHwidMenuDescription": "How to reset HWID?",
+
+
+    "FEATURES INFO MENU": "",
+    "featuresMenuLabel": "Features",
+    "featuresMenuDescription": "What features korepi have?",
+
+
+    "TROUBLESHOOT INFO MENU": "",
+    "troubleshootMenuLabel": "Troubleshot",
+    "troubleshootMenuDescription": "How can i solve my problems?",
+
+
+    "MULTIINSTANCE INFO MENU": "",
+    "multiinstanceMenuLabel": "Multi Instance",
+    "multiinstanceMenuDescription": "How to open multiple games?",
+
+
+    "SKINS INFO MENU": "",
+    "skinsMenuLabel": "Skins",
+    "skinsMenuDescription": "How to use 3dm with korpei?",
+
+
+    "TP INFO MENU": "",
+    "tpMenuLabel": "TP",
+    "tpMenuDescription": "How to use TP and how to download?",
+
+
+    "OTHER INFO MENU": "",
+    "otherMenuLabel": "Other",
+    "otherMenuDescription": "Specific provlem / None of the above problems"
 }
