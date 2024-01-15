@@ -63,7 +63,7 @@
 
     "SKINS INFO EMBED": "",
     "skinsEmbedTitle": "Skins",
-    "skinsEmbedDescription": "Use this link to get guide how to use 3dm with korpei\n https://korepi.com/guide/3DM-skin",
+    "skinsEmbedDescription": "Use this link to get guide how to use 3dm with korepi\n https://korepi.com/guide/3DM-skin",
 
 
 
@@ -75,7 +75,7 @@
 
     "OTHER INFO EMBED": "",
     "otherEmbedTitle": "Other",
-    "otherEmbedDescription": "Write to one of the gaiders in chat or in private messages (at least to the moderators)",
+    "otherEmbedDescription": "Write to one of the guiders in chat or in private messages (at least to the moderators)",
 
 
 
@@ -125,7 +125,7 @@
 
     "SKINS INFO MENU": "",
     "skinsMenuLabel": "Skins",
-    "skinsMenuDescription": "How to use 3dm with korpei?",
+    "skinsMenuDescription": "How to use 3dm with korepi?",
 
 
     "TP INFO MENU": "",
@@ -135,5 +135,5 @@
 
     "OTHER INFO MENU": "",
     "otherMenuLabel": "Other",
-    "otherMenuDescription": "Specific provlem / None of the above problems"
+    "otherMenuDescription": "Specific problem / None of the above problems"
 }

@@ -1,5 +1,5 @@
 {
-    "ENGLISH": "language",
+    "SPANISH": "language",
 
 
 
@@ -8,74 +8,74 @@
 
 
     "MAIN EMBED": "",
-    "dmEmbedTitle": "Korepi Questions",
-    "dmEmbedDescription": "Choose your question below and bot give you a answer!",
+    "dmEmbedTitle": "Preguntas de Korepi",
+    "dmEmbedDescription": "Elige tu pregunta abajo y el bot te responderá!",
 
 
 
     "DOWNLOAD INFO EMBED": "",
-    "downloadEmbedTitle": "Download",
-    "downloadEmbedDescription": "Use this link to get download guide\n https://korepi.com/start/download",
+    "downloadEmbedTitle": "Descarga",
+    "downloadEmbedDescription": "Usa este link para la guía de descarga\n https://korepi.com/start/download",
 
 
 
     "FANS ROLE INFO EMBED": "",
-    "fansRoleEmbedTitle": "Fans Role",
-    "fansRoleEmbedDescription": "Use this link to get guide how to get fans role\n https://korepi.com/start/sign-in",
+    "fansRoleEmbedTitle": "Rol de Fans",
+    "fansRoleEmbedDescription": "Usa este link para saber como conseguir el rol de Fans\n https://korepi.com/start/sign-in",
 
 
 
     "SPONSOR INFO EMBED": "",
     "sponsorEmbedTitle": "Sponsorship",
-    "sponsorEmbedDescription": "Use this link to get guide how to get sponsor\n https://korepi.com/start/sponsor",
+    "sponsorEmbedDescription": "Usa este link para saber como conseguir Sponsor\n https://korepi.com/start/sponsor",
 
 
 
     "KEY INFO EMBED": "",
     "keyEmbedTitle": "Key",
-    "keyEmbedDescription": "Use this link to get guide how to get key\n https://korepi.com/guide/getkey",
+    "keyEmbedDescription": "Usa este link para saber como conseguir la Key\n https://korepi.com/guide/getkey",
 
 
 
     "RESET HWID INFO EMBED": "",
-    "resetHwidEmbedTitle": "Reset HWID",
-    "resetHwidEmbedDescription": "Use this link to get guide how to reset HWID\n https://korepi.com/guide/resethwid",
+    "resetHwidEmbedTitle": "Restablecer HWID",
+    "resetHwidEmbedDescription": "Usa este link para saber como restablecer tu HWID\n https://korepi.com/guide/resethwid",
 
 
 
     "FEATURES INFO EMBED": "",
-    "featuresEmbedTitle": "Features",
-    "featuresEmbedDescription": "Use this link to get guide what features korepi have\n https://korepi.com/features",
+    "featuresEmbedTitle": "Funciones",
+    "featuresEmbedDescription": "Usa este link para saber que funciones dispone Korepi\n https://korepi.com/features",
 
 
 
     "TROUBLESHOOT INFO EMBED": "",
-    "troubleshootEmbedTitle": "Troubleshot",
-    "troubleshootEmbedDescription": "If you have problem with korepi use this link\n https://korepi.com/troubleshoot",
+    "troubleshootEmbedTitle": "Errores",
+    "troubleshootEmbedDescription": "Si tienes algún problema con Korepi sigue este link\n https://korepi.com/troubleshoot",
 
 
 
     "MULTIINSTANCE INFO EMBED": "",
-    "multiinstanceEmbedTitle": "Multi Instance",
-    "multiinstanceEmbedDescription": "Use this link to get guide how to open multiple games\n https://korepi.com/guide/multi-instance",
+    "multiinstanceEmbedTitle": "Multi-Instancia",
+    "multiinstanceEmbedDescription": "Sigue este link para saber como abrir varios juegos a la vez\n https://korepi.com/guide/multi-instance",
 
 
 
     "SKINS INFO EMBED": "",
     "skinsEmbedTitle": "Skins",
-    "skinsEmbedDescription": "Use this link to get guide how to use 3dm with korpei\n https://korepi.com/guide/3DM-skin",
+    "skinsEmbedDescription": "Usa este link para saber como usar 3DM(GIMI) con Korepi\n https://korepi.com/guide/3DM-skin",
 
 
 
     "TP INFO EMBED": "",
-    "tpEmbedTitle": "TP",
-    "tpEmbedDescription": "Use this link to get guide how to use TP\n https://korepi.com/features/Teleport",
+    "tpEmbedTitle": "Teletransportes",
+    "tpEmbedDescription": "Usa este link para ver la guía de Teletransportes\n https://korepi.com/features/Teleport",
 
 
 
     "OTHER INFO EMBED": "",
-    "otherEmbedTitle": "Other",
-    "otherEmbedDescription": "Write to one of the gaiders in chat or in private messages (at least to the moderators)",
+    "otherEmbedTitle": "Otros",
+    "otherEmbedDescription": "Escríbele a algún guía disponible or manda un mensaje privado (o a los moderadores)",
 
 
 
@@ -84,56 +84,56 @@
 
 
     "DOWNLOAD INFO MENU": "",
-    "downloadMenuLabel": "Download",
-    "downloadMenuDescription": "Guide how to download here.",
+    "downloadMenuLabel": "Descarga",
+    "downloadMenuDescription": "Guía de como descargar aquí.",
 
 
     "FANS ROLE INFO MENU": "",
-    "fansRoleMenuLabel": "Fans Role",
-    "fansRoleMenuDescription": "How to get fans role?",
+    "fansRoleMenuLabel": "Rol de Fans",
+    "fansRoleMenuDescription": "Como consigo el rol de fans?",
 
 
     "SPONSOR INFO MENU": "",
     "sponsorMenuLabel": "Sponsor",
-    "sponsorMenuDescription": "How can i become a sponsor?",
+    "sponsorMenuDescription": "Como me convierto en sponsor?",
 
 
     "KEY INFO MENU": "",
     "keyMenuLabel": "Key",
-    "keyMenuDescription": "How to get key?",
+    "keyMenuDescription": "Como consigo la key?",
 
 
     "RESET HWID INFO MENU": "",
-    "resetHwidMenuLabel": "Reset HWID",
-    "resetHwidMenuDescription": "How to reset HWID?",
+    "resetHwidMenuLabel": "Restablecer HWID",
+    "resetHwidMenuDescription": "Como restablezco mi HWID?",
 
 
     "FEATURES INFO MENU": "",
-    "featuresMenuLabel": "Features",
-    "featuresMenuDescription": "What features korepi have?",
+    "featuresMenuLabel": "Funciones",
+    "featuresMenuDescription": "Que funciones tiene Korepi?",
 
 
     "TROUBLESHOOT INFO MENU": "",
-    "troubleshootMenuLabel": "Troubleshot",
-    "troubleshootMenuDescription": "How can i solve my problems?",
+    "troubleshootMenuLabel": "Errores",
+    "troubleshootMenuDescription": "Como soluciono mi problema?",
 
 
     "MULTIINSTANCE INFO MENU": "",
-    "multiinstanceMenuLabel": "Multi Instance",
-    "multiinstanceMenuDescription": "How to open multiple games?",
+    "multiinstanceMenuLabel": "Multi-Instancia",
+    "multiinstanceMenuDescription": "Como abro varios juegos a la vez?",
 
 
     "SKINS INFO MENU": "",
     "skinsMenuLabel": "Skins",
-    "skinsMenuDescription": "How to use 3dm with korpei?",
+    "skinsMenuDescription": "Como uso 3DM(GIMI) con Korepi?",
 
 
     "TP INFO MENU": "",
-    "tpMenuLabel": "TP",
-    "tpMenuDescription": "How to use TP and how to download?",
+    "tpMenuLabel": "Teletransportes)",
+    "tpMenuDescription": "Como uso los teletransportes y como los descargo?",
 
 
     "OTHER INFO MENU": "",
-    "otherMenuLabel": "Other",
-    "otherMenuDescription": "Specific provlem / None of the above problems"
+    "otherMenuLabel": "Otros",
+    "otherMenuDescription": "Problema especifico/Ninguno de los anteriores."
 }
