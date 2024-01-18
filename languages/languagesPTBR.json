@@ -1,1 +1,134 @@
+"EMBED SECTION": "",
+
+
+
+"MAIN EMBED": "",
+"dmEmbedTitle": "Perguntas Korepi",
+"dmEmbedDescription": "Escolha sua pergunta abaixo e o bot lhe dará uma resposta!",
+
+
+
+"DOWNLOAD INFO EMBED": "",
+"downloadEmbedTitle": "Download",
+"downloadEmbedDescription": "Use este link para obter o guia de download\n https://korepi.com/start/download",
+
+
+
+"FANS ROLE INFO EMBED": "",
+"fansRoleEmbedTitle": "Função de Fãs",
+"fansRoleEmbedDescription": "Use este link para obter o guia de como obter a função de fã\n https://korepi.com/start/sign-in",
+
+
+
+"SPONSOR INFO EMBED": "",
+"sponsorEmbedTitle": "Patrocínio",
+"sponsorEmbedDescription": "Use este link para obter o guia de como conseguir um patrocinador\n https://korepi.com/start/sponsor",
+
+
+
+"KEY INFO EMBED": "",
+"keyEmbedTitle": "Chave",
+"keyEmbedDescription": "Use este link para obter o guia de como obter a chave\n https://korepi.com/guide/getkey",
+
+
+
+"RESET HWID INFO EMBED": "",
+"resetHwidEmbedTitle": "Resetar HWID",
+"resetHwidEmbedDescription": "Use este link para obter o guia de como resetar o HWID\n https://korepi.com/guide/resethwid",
+
+
+
+"FEATURES INFO EMBED": "",
+"featuresEmbedTitle": "Recursos",
+"featuresEmbedDescription": "Use este link para obter o guia sobre quais recursos o Korepi possui\n https://korepi.com/features",
+
+
+
+"TROUBLESHOOT INFO EMBED": "",
+"troubleshootEmbedTitle": "Solução de Problemas",
+"troubleshootEmbedDescription": "Se você tiver problemas com o Korepi, use este link\n https://korepi.com/troubleshoot",
+
+
+
+"MULTIINSTANCE INFO EMBED": "",
+"multiinstanceEmbedTitle": "Multi Instância",
+"multiinstanceEmbedDescription": "Use este link para obter o guia de como abrir vários jogos\n https://korepi.com/guide/multi-instance",
+
+
+
+"SKINS INFO EMBED": "",
+"skinsEmbedTitle": "Skins",
+"skinsEmbedDescription": "Use este link para obter o guia de como usar 3DM com o Korepi\n https://korepi.com/guide/3DM-skin",
+
+
+
+"TP INFO EMBED": "",
+"tpEmbedTitle": "TP",
+"tpEmbedDescription": "Use este link para obter o guia de como usar TP\n https://korepi.com/features/Teleport",
+
+
+
+"OTHER INFO EMBED": "",
+"otherEmbedTitle": "Outro",
+"otherEmbedDescription": "Converse com um dos orientadores no chat ou em mensagens privadas (pelo menos com os moderadores)",
+
+
+
+"MENUS SECTION": "",
+
+
+
+"DOWNLOAD INFO MENU": "",
+"downloadMenuLabel": "Download",
+"downloadMenuDescription": "Guia de como baixar aqui.",
+
+
+"FANS ROLE INFO MENU": "",
+"fansRoleMenuLabel": "Função de Fãs",
+"fansRoleMenuDescription": "Como obter a função de fã?",
+
+
+"SPONSOR INFO MENU": "",
+"sponsorMenuLabel": "Patrocínio",
+"sponsorMenuDescription": "Como posso me tornar um patrocinador?",
+
+
+"KEY INFO MENU": "",
+"keyMenuLabel": "Chave",
+"keyMenuDescription": "Como obter a chave?",
+
+
+"RESET HWID INFO MENU": "",
+"resetHwidMenuLabel": "Resetar HWID",
+"resetHwidMenuDescription": "Como resetar o HWID?",
+
+
+"FEATURES INFO MENU": "",
+"featuresMenuLabel": "Recursos",
+"featuresMenuDescription": "Quais recursos o Korepi possui?",
+
+
+"TROUBLESHOOT INFO MENU": "",
+"troubleshootMenuLabel": "Solução de Problemas",
+"troubleshootMenuDescription": "Como posso resolver meus problemas?",
+
+
+"MULTIINSTANCE INFO MENU": "",
+"multiinstanceMenuLabel": "Multi Instância",
+"multiinstanceMenuDescription": "Como abrir vários jogos?",
+
+
+"SKINS INFO MENU": "",
+"skinsMenuLabel": "Skins",
+"skinsMenuDescription": "Como usar 3DM com o Korepi?",
+
+
+"TP INFO MENU": "",
+"tpMenuLabel": "TP",
+"tpMenuDescription": "Como usar TP e como baixar?",
+
+
+"OTHER INFO MENU": "",
+"otherMenuLabel": "Outro",
+"otherMenuDescription": "Problema específico / Nenhum dos problemas acima"
 
